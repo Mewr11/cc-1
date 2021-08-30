@@ -1,0 +1,6 @@
+8 pm on Thursday is 0*24 + 12 + 8 = 20 hours past 0:00 on Thursday. 8 am on Monday is 4*24 + 8 = 104 hours past 0:00 on Thursday, which means that 104 - 20 = 84 hours passed between the two measurements
+
+The watch lost 12 minutes over that time span, which meant the watch took 84 / 12 = 7 hours to lose a single minute. Since it needed to lose 5 minutes to show the correct time, it took 7 * 5 = 35 hours to show the correct time.
+
+This would put the correct time at 20 + 35 = 55 hours past 0:00 on Thursday, or 7 am on Saturday; thus the correct answer is (A)
+
